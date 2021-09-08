@@ -1,0 +1,115 @@
+body
+{
+ 
+}
+.mainDiv
+{
+    background-image: url(/img/press/Bg.png);
+    height: auto;
+    width: 80%;
+    background-repeat: initial;
+    background-position: center;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background-size: 100% 100%;
+    text-align: center;
+    border-top: 25px solid #fff;
+    border-bottom: 25px solid #fff;
+    margin-top: 55px;
+}
+@font-face {
+    font-family: pressFontMedium;
+    src: url('/fonts/press/ApercuPro-Medium.ttf');
+  }
+  @font-face {
+    font-family: pressFontMediumItalic;
+    src: url('/fonts/press/ApercuPro-MediumItalic.ttf');
+  }
+  @font-face {
+    font-family: pressFontBold;
+    src: url('/fonts/press/VAGRoundedStd-Bold.otf');
+  }
+  .textcontrol
+  {
+          width: 88%;
+    margin: 0 auto;
+
+  }
+.sound-press-img
+{
+      margin: 3px auto;
+    display: block;
+    text-align: center;
+}
+.sound-press-img img
+{
+    width: 22%;
+    margin: 11px;
+}
+.head-button
+{
+       text-align: center;
+    margin-top: -3px;
+
+}
+.head-button img
+{
+    width: 15%;
+    margin: 14px;
+    cursor: pointer;
+}
+.company-list-name
+{
+        text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px
+  
+}
+.company-list-name img
+{
+    width: 100%;
+}
+.text-link-head {
+    margin-top: 20px;
+}
+.title
+{
+    font-family: pressFontMedium;
+    font-size: 30px;
+    color: #064e45;
+}
+.text-link
+{
+    font-family: pressFontMediumItalic;
+    font-size: 18px;
+    color: #064e45;
+    word-wrap: break-word;
+    line-height: normal;
+}
+.text-link p a 
+{
+    color: #064e45;
+    text-decoration: none;
+}
+.text-link p a:hover
+{
+    color: #064e45;
+    text-decoration: none;
+}
+.text-date
+{
+    font-size: 18px;
+    font-family: pressFontMedium;
+    color: #064e45; 
+    line-height: 0.8;
+}
+.left—side
+{
+    text-align: initial;
+}
+
+#lastpresstext
+{
+    margin-bottom:60px;
+}

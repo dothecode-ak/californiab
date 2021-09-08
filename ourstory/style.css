@@ -1,0 +1,773 @@
+body
+{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-bg
+{
+    background-image: url("../../img/ourstory/assets/BG2.png");
+    background-size: 100% 100%;
+    background-repeat: repeat-y;
+}
+
+ .container
+{
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.section_one_bg
+{
+    background-image: url("../../img/ourstory/assets/BG01.png");
+    background-position: center;
+    height: 51vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    margin-top: 6.1rem;
+}
+.welove_img
+{
+
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 2%;
+    width: 15%;
+}
+.desp_img1
+{
+ 
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 3%;
+    width: 42%;
+
+}
+.section_two_bg
+{
+    background-image: url("../../img/ourstory/assets/BG2.png");
+    background-position: center;
+    height: 100vw;
+    background-repeat: no-repeat;
+    background-size: 102% 100%;
+}
+.bucket_img
+{
+  
+    margin-top: -30px;
+    width: 30%;
+}
+
+
+.ingradients
+{
+width: 100%;
+}
+.bg3{
+    height: 80%;
+    width: 100%;
+    position: relative;
+    top: 4vw;
+}
+.ingradientsImg
+{
+    width: 60%;
+    position: absolute;
+    top: 22%;
+    transform: translate(-50%, 0);
+    left: 50%;
+
+}
+.desp-div4
+{
+    position: relative;
+    width: 100%;
+}
+
+.background4
+{
+    width: 100%;
+    position: relative;
+    bottom: 5vw;
+    height: 32vw;
+
+}
+.ingradientsImg2
+{
+    width: 60%;
+    position: absolute;
+    bottom: 26%;
+    transform: translate(-50%, 0);
+    left: 50%;
+
+}
+.background5
+{
+    width: 100%;
+    position: relative;
+    top: 8vw;
+    height: 20vw;
+}
+.ingradientsImg3
+{
+    width: 60%;
+    position: absolute;
+    bottom: -36%;
+    transform: translate(-50%, 0);
+    left: 50%;
+
+
+}
+.desp_img2 {
+    float: right;
+    padding-right: 8%;
+    right: 0;
+    width: 65%;
+    padding-top: 3%;
+
+}
+
+.cup_img 
+{
+    padding-top: 2%;
+    float: right;
+    padding-right: 1%;
+    right: 0;
+    width: 55%;
+}
+
+
+.desp_img3
+ {
+
+        padding-left: 4%;
+        padding-top: 2%;
+        position: relative;
+        width: 40%;
+
+}
+
+
+.section_three_bg
+{
+    background-image: url("../../img/ourstory/assets/BG3.png");
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 102% 100%;
+    text-align: center;
+}
+
+
+.repeat-bg
+{
+   background-image: url("../../img/ourstory/assets/BG3.png");
+   background-size: 100;
+   background-size: 100% 115%;
+   background-repeat: repeat-y;
+}
+.desp_img4
+{
+
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 10%;
+        width: 65%;
+}
+
+.section_four_bg
+{
+    background-image: url("../../img/ourstory/assets/BG4.png");
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.desp_img5
+{
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 12%;
+    width: 75%;
+}
+
+
+.repeat-bg2
+{
+    background-image: url("../../img/ourstory/assets/BG01.png");
+    background-size: 100;
+    background-size: 100% 100%;
+    background-repeat: repeat-y;
+}
+
+.section_five_bg
+{
+    background-image: url("../../img/ourstory/assets/BG5.png");
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.desp_img6
+{
+
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 12%;
+        width: 65%;
+}
+
+.section_six_bg
+{
+    background-image: url("../../img/ourstory/assets/BG6.png");
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.desp_img7
+{
+
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 5%;
+    width: 75%;
+}
+
+.section_seven_bg
+{
+    background-image: url("../../img/ourstory/assets/BG7V2.jpg");
+    background-position: center;
+    height: 250%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.desp_img8
+{
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 11%;
+        width: 60%;
+    
+}
+
+
+@media only screen and (min-width: 320px) and  (max-width: 768px) and (-webkit-min-device-pixel-ratio: 1)
+{
+
+    .section_one_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG01.png");
+        background-position: center;
+        height: 118vw;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+        margin-top: 5rem;
+    }
+    .welove_img
+    {
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 5%;
+        width: 40%;
+    }
+    .desp_img1
+    {
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 4%;
+        width: 95%;
+    }
+    .section_two_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG2.png");
+        background-position: center;
+        height: 375vw;
+        background-repeat: no-repeat;
+        background-size: 102% 100%;
+    }
+    
+    .bucket_img
+    {
+        width: 85%;
+        margin-top: -25px;
+    }
+
+
+
+
+
+    .desp_img2 
+    {
+        width: 90%;
+        text-align: center;
+        margin: 0 auto;
+        position: absolute;
+        left: 0;
+        right: 0;
+        padding-top: 122%;
+        padding-right: 2%;
+    }
+
+
+
+    .desp-div2
+    {
+        text-align: center;
+    }
+
+
+    .cup_img
+     {
+
+        padding-top: 48%;
+        float: right;
+        position: absolute;
+        width: 75%;
+    }
+
+
+    .desp-div3
+    {
+        text-align: center;
+    }
+
+
+    .cup-div
+    {
+        text-align: center;
+    }
+
+.desp_img3
+ {
+ 
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 105%;
+    padding-left: 0%;
+}
+
+
+    .section_three_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG3.png");
+        background-position: center;
+        height: 40%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    
+    }
+    .desp_img4
+    {
+      
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+    }
+    
+
+    .ingradients
+    {
+        width: 100%;
+
+    }
+        .bg3
+        {
+            width: 100%;
+            position: relative;
+            top:5.5vw;
+            height: 57vw;
+        }
+        .ingradientsImg
+        {
+            width: 92%;
+            position: absolute;
+            top: 20%;
+            transform: translate(-50%, 0);
+            left: 51%;
+        
+        }
+
+        .desp-div4
+        {
+            position: relative;
+            width: 100%;
+        }
+        
+        .background4
+        {
+            width: 100%;
+            position: relative;
+            bottom: 5.5vw;
+            height: 53vw;
+        }
+        .ingradientsImg2
+        {
+            width: 92%;
+            position: absolute;
+            bottom: 25%;
+            transform: translate(-50%, 0);
+            left: 51%;
+        
+        }
+        .background5
+        {
+            width: 100%;
+            position: relative;
+            top: 8vw;
+            height: 37vw;
+        }
+        .ingradientsImg3
+        {
+            width: 90%;
+            position: absolute;
+            bottom: -15%;
+            transform: translate(-50%, 0);
+            left: 50%;
+        
+        }
+
+
+
+
+
+
+    .section_four_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG4.png");
+        background-position: center;
+        height: 65vw;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    }
+    
+    .desp_img5
+    {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20%;
+    width: 95%;
+    }
+    
+    .section_five_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG5.png");
+        background-position: center;
+        height: 42%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    }
+    .desp_img6
+    {
+       
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20%;
+    width: 90%;
+    }
+    
+    .section_six_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG6.png");
+        background-position: center;
+        height: 40%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    }
+    .desp_img7
+    {
+      
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10%;
+    width: 90%;
+
+    }
+    
+    .section_seven_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG7V2.jpg");
+        background-position: center;
+        height: 125vw;
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+    
+    }
+    
+    .desp_img8
+    {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 12%;
+    width: 90vw;
+    }
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px)
+{
+
+   .section_one_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG01.png");
+        background-position: center;
+        height: 100vw;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    }
+    .welove_img
+    {
+
+            text-align: center;
+            margin: 0 auto;
+            padding-top: 3%;
+            width: 35%;
+    }
+    .desp_img1
+    {
+      
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 5%;
+    width: 90%;
+    }
+    .section_two_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG2.png");
+        background-position: center;
+        height: 350vw;
+        background-repeat: no-repeat;
+        background-size: 102% 100%;
+    }
+    
+    .bucket_img
+    {
+        width: 75%;
+        margin-top: -65px;
+    }
+
+    .desp_img2
+     {
+            text-align: center;
+            margin: 0 auto;
+            position: absolute;
+            left: 0;
+            right: 0;
+            padding-top: 100%;
+            padding-right: 2%;
+            width: 90%;
+    }
+
+
+
+    .desp-div2
+    {
+        text-align: center;
+    }
+
+    .cup_img
+     {
+
+        padding-top: 35%;
+    float: right;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    margin: 0 auto;
+    width: 70%;
+    }
+
+
+    .desp-div3
+    {
+        text-align: center;
+    }
+   
+    
+
+
+    .desp_img3 {
+
+        text-align: center;
+        margin: 0 auto;
+        position: relative;
+        left: 0;
+        right: 0;
+        padding-top: 90%;
+        width: 100%;
+    }
+
+
+    .section_three_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG3.png");
+        background-position: center;
+        height: 40%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    
+    }
+    .desp_img4
+    {
+        
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
+
+    }
+
+
+    .ingradients{
+        width: 100%;
+        }
+        .bg3{
+            width: 100%;
+            position: relative;
+            top: 5vw;
+            height: 35%;
+        }
+        .ingradientsImg{
+
+            width: 75%;
+            position: absolute;
+            top: 20%;
+            transform: translate(-50%, 0);
+            left: 50%;
+        
+        }
+
+
+
+        .desp-div4{
+            position: relative;
+            width: 100%;
+        }
+        
+        .background4{
+          
+            width: 100%;
+            position: relative;
+            bottom: 5vw;
+            height: 35%;
+        }
+        .ingradientsImg2{
+            width: 75%;
+            position: absolute;
+            bottom: 28%;
+            transform: translate(-50%, 0);
+            left: 50%;
+        
+        }
+        .background5{
+            width: 100%;
+            position: relative;
+            top: 5vw;
+            height: 25%;
+        }
+        .ingradientsImg3{
+            width: 75%;
+            position: absolute;
+            transform: translate(-50%, 0);
+            left: 50%;
+            bottom: -10%;
+        
+        }
+    
+    .section_four_bg
+    {
+
+        background-image: url("../../img/ourstory/assets/BG4.png");
+    background-position: center;
+    height: 45%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    }
+    
+    .desp_img5
+    {
+
+
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 15%;
+    width: 90%;
+    }
+    
+    .section_five_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG5.png");
+        background-position: center;
+        height: 42%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    }
+    .desp_img6
+    {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 11%;
+    width: 80%;
+    }
+    
+    .section_six_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG6.png");
+        background-position: center;
+        height: 40%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    }
+    .desp_img7
+    {
+    
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 5%;
+    width: 85%;
+    }
+    
+    .section_seven_bg
+    {
+        background-image: url("../../img/ourstory/assets/BG7V2.jpg");
+        background-position: center;
+        height: 100vw;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+    
+    }
+    
+    .desp_img8
+    {
+      
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 8%;
+    width: 80vw;
+
+
+    }
+}
+
+
+

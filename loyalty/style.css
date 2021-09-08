@@ -1,0 +1,165 @@
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.bannerDiv
+{
+background-image: url('/img/loyalty/Banner-image.png?v=idhsindisn');
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  margin-top: 62px
+
+}
+@font-face {
+    font-family: pressFontMedium;
+    src: url('/fonts/loyalty/ApercuPro-Medium.ttf');
+  }
+  @font-face {
+    font-family: pressFontMediumItalic;
+    src: url('/fonts/ApercuPro-MediumItalic.ttf');
+  }
+  @font-face {
+    font-family: pressFontBold;
+    src: url('/fonts/loyalty/VAGRoundedStd-Bold.otf');
+  }
+  #checkpointBtn
+  {
+      cursor: pointer;
+  }
+.bannerDiv img
+{
+      width: 48%;
+    position: relative;
+    top: 11px;
+    left: 36px;
+}
+.welcomeText
+{
+    font-family: pressFontBold;
+    font-size: 20px;
+    width: 50%;
+    text-align: center;
+    color: #064e45;
+      
+       margin-top: 40px;
+}
+#greenLine
+{
+    background-image: url(/img/loyalty/Green-Strip.png);
+   position: relative;
+    height: 104px;
+    width: 100%;
+    background-size: 100%;
+    top: -21px;
+    background-repeat: no-repeat;
+}
+
+.textDiv
+{
+   background-image: url(/img/loyalty/BG.png);
+    height: 100%;
+    width: 100%;
+    background-size: 100% 100%;
+    border-top: 20px solid #064e45;
+        position: relative;
+    background-repeat: no-repeat;
+        margin-top: -21px;
+        height: auto;
+}
+#textcenterloyalty
+{
+    width: 95%;
+    margin: 0 auto;
+}
+.rewardImg {
+    text-align: center;
+    margin-top: 9px;
+
+}
+.rewardImg img
+{
+       width: 84%;
+}
+.title
+{
+    font-size: 30px;
+    font-family: pressFontBold;
+    color: #064e45;;
+}
+.newdesc
+{
+    font-size: 23px;
+    color: #064e45;;
+    font-family: pressFontMedium;
+    margin-top: -7px;
+    word-wrap: break-word;
+}
+.mainText
+{
+    text-align: center;
+}
+.enjoypoints img
+{
+    width: 27%;
+}
+.enjoypoints
+{
+       text-align: center;
+    margin-top: 21px;
+}
+.dottedBG
+{
+     background-image: url(/img/loyalty/Bg-Doodle.png);
+       width: 70%;
+    background-size: 100% 100%;
+    margin: 0 auto;
+    height: auto;
+    background-repeat: no-repeat;
+}
+.subBannerDiv
+{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: relative;
+}
+.faqImg img
+{
+    width: 20%;
+}
+.faqImg ,.faqText
+{
+    text-align: center;
+    margin-top: 16px;
+}
+#orderLink
+{
+    text-decoration: none;
+    color: #ab1e38;
+}
+#orderLink:hover
+{
+    text-decoration: none;
+    color: #ab1e38;
+}
+#cbaccounts,#cbaccounts:hover
+{
+    color: #064e45;
+    text-decoration:none;
+
+}
+ .mainText
+ {
+     margin-top: 20px;
+ }
+.lastText
+{
+       padding-bottom: 81px;
+}
+ 

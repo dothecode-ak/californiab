@@ -1,0 +1,54 @@
+@media only screen and (max-width: 600px) {
+    .bannerDiv
+{
+      background-image: url(/img/loyalty/Banner-image.png?v=3y72yw8926667);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: unset;
+    margin-top:3rem;
+    background-size: contain;
+    padding: 40px;
+
+}
+    .enjoypoints img {
+       width: 81%;
+}
+.faqImg img {
+   width: 48%;
+}
+.dottedBG
+{
+    width: 100%;
+}
+.welcomeText
+{font-size: 12px;
+
+         margin-bottom: 21px;
+          margin-top: 28px;
+            width: 46vw;
+}
+.bannerDiv img {
+    width: 45%;
+    position: relative;
+    top: 17px;
+     left: 19px;
+}
+.subBannerDiv {
+    top: unset;
+    left: unset;
+    transform: unset;
+    position:unset;
+}
+.title
+{
+     font-size: 17px;
+}
+.newdesc
+{
+       font-size: 12px;
+}
+.lastText {
+    padding-bottom: 25px;
+}
+}
